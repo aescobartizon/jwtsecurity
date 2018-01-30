@@ -29,3 +29,8 @@ curl -H "Content-Type: application/json" \
 curl -H "Authorization: Bearer xxx.yyy.zzz" http://localhost:8080/tasks
 
 
+Ejemplo uso postman
+Headers añadir key tipo Bearer y el token cifrado
+Authorization -> Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbnRvbmlvIiwiZXhwIjoxNTE4MTcwNjA3fQ.ask_9DzR0MsKyJxoDUlg4oGJPKrAWKWQsWHNjcLLz3P2_fULUMZ4WXSfbsUI5w1mapTZKBv2DUW5mSqqnLJmSQ
+
+
